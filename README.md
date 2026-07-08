@@ -53,7 +53,7 @@ javascript-practice/
 ### Clone Repository
 
 bash
-git clone https://github.com/YOUR_USERNAME/javascript-practice.git
+git clone https://github.com/omkarbuilds/javascript-practice.git
 
 
 ### Open Project Folder
@@ -122,10 +122,10 @@ Through this project, I practiced:
 
 *Omkar Ghule*
 
-Aspiring AI/ML Engineer | JavaScript Learner | Problem Solver
+AI/ML Engineer | JavaScript Learner | Problem Solver
 
 GitHub: https://github.com/omkarbuilds
-LinkedIn: Add Your LinkedIn Profile Here
+LinkedIn: linkedin.com/in/omkarghule
 
 ---
 
